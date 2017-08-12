@@ -1,9 +1,9 @@
-[submodule "libraries/DHT-sensor-library"]
-	path = libraries/DHT-sensor-library
-	url = git@github.com:adafruit/DHT-sensor-library.git
 [submodule "libraries/RFM69"]
 	path = libraries/RFM69
 	url = https://github.com/DrexelSmartHouse/RFM69.git
 [submodule "libraries/pubsubclient"]
 	path = libraries/pubsubclient
 	url = git@github.com:knolleary/pubsubclient.git
+[submodule "libraries/DHT-sensor-library"]
+	path = libraries/DHT-sensor-library
+	url = git@github.com:adafruit/DHT-sensor-library.git
